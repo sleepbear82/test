@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 nnnnnnnnnnnnnnnfsdfsdfsdfsdfsdf
+=======
+aaaaaa22222222222
+>>>>>>> branch 'new-master' of https://github.com/sleepbear82/test.git
